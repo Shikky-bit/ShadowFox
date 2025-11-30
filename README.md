@@ -22,7 +22,7 @@ ShadowFox/
 ---
 
 # 🟢 Beginner Task — **Image Tagging Model**  
-*(Beginner Level — Task 1)* :contentReference[oaicite:4]{index=4}
+*(Beginner Level — Task 1)* 
 
 ### 📌 Problem Statement  
 Develop a practical solution for **image tagging** by training a simple image classification model.  
@@ -36,7 +36,7 @@ The goal is to build an accessible, real-world-applicable classification system.
 ---
 
 # 🟡 Intermediate Task — **Loan Approval Prediction**  
-*(Intermediate Level — Task 3)* :contentReference[oaicite:5]{index=5}
+*(Intermediate Level — Task 3)* 
 
 ### 📌 Problem Statement  
 Build a **Loan Approval Prediction** system using machine learning.  
@@ -50,7 +50,7 @@ This helps understand how ML models are used in the fintech sector for automated
 ---
 
 # 🔴 Advanced Task — **Language Model (LM) Deployment & Analysis**  
-*(Advanced Level — Task 1)* :contentReference[oaicite:6]{index=6}
+*(Advanced Level — Task 1)* 
 
 ### 📌 Problem Statement  
 Deploy a **Language Model (LM)** of your choice (GPT-3, BERT, or any LM).  
